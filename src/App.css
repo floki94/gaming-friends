@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'PEPgenius10';
+    font-style: normal;
+    font-weight: normal;
+    src: local('PEPgenius10'), url('pepgenius10.woff') format('woff');
+}
+
+h1 {
+    font-family: 'PEPgenius10';
+}

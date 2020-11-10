@@ -1,17 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Card from './Card';
+import App from './App';
 import reportWebVitals from './reportWebVitals';
 import 'tachyons';
-import {gamers} from './gamers'
 
 ReactDOM.render(
   <div>
     <React.StrictMode>
-      <Card id={gamers[0].id} name={gamers[0].name} email={gamers[0].email} />
-      <Card id={gamers[1].id} name={gamers[1].name} email={gamers[1].email} />
-      <Card id={gamers[2].id} name={gamers[2].name} email={gamers[2].email} />
+      <App />
     </React.StrictMode>
   </div>,
   document.getElementById('root')
