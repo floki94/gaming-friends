@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/gaming-friends/static/css/main.840da704.chunk.css",
+    "main.js": "/gaming-friends/static/js/main.7bcfcab2.chunk.js",
+    "main.js.map": "/gaming-friends/static/js/main.7bcfcab2.chunk.js.map",
+    "runtime-main.js": "/gaming-friends/static/js/runtime-main.df21170c.js",
+    "runtime-main.js.map": "/gaming-friends/static/js/runtime-main.df21170c.js.map",
+    "static/css/2.31461e4f.chunk.css": "/gaming-friends/static/css/2.31461e4f.chunk.css",
+    "static/js/2.14233d24.chunk.js": "/gaming-friends/static/js/2.14233d24.chunk.js",
+    "static/js/2.14233d24.chunk.js.map": "/gaming-friends/static/js/2.14233d24.chunk.js.map",
+    "static/js/3.b744ae29.chunk.js": "/gaming-friends/static/js/3.b744ae29.chunk.js",
+    "static/js/3.b744ae29.chunk.js.map": "/gaming-friends/static/js/3.b744ae29.chunk.js.map",
+    "index.html": "/gaming-friends/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/gaming-friends/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.840da704.chunk.css.map": "/gaming-friends/static/css/main.840da704.chunk.css.map",
+    "static/js/2.14233d24.chunk.js.LICENSE.txt": "/gaming-friends/static/js/2.14233d24.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/gaming-friends/static/media/pepgenius10.4ba54ed0.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df21170c.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.14233d24.chunk.js",
+    "static/css/main.840da704.chunk.css",
+    "static/js/main.7bcfcab2.chunk.js"
+  ]
+}
